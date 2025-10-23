@@ -1,0 +1,22 @@
+# OpenAI Chat Project Instructions
+
+✅ Features Implemented:
+- Edit message with edit history
+- Re-send edited message
+- Typing animation while waiting
+- OpenAI API integration
+- Delete chat fixed
+
+🛠️ Setup Steps:
+1. Install modules:
+   pip install openai flask python-dotenv
+
+2. Add `.env` file with:
+   OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxx
+
+3. All logic is in:
+   /backend/chat.py → handles OpenAI API
+   /templates/chat.html → frontend HTML
+   /static/chat.js → handles edit, animation, delete
+
+✔️ Project stack: HTML, CSS, JavaScript, Python (no Node.js)
