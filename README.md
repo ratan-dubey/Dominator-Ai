@@ -42,7 +42,7 @@ The application consists of three high-level components:
 
 ## Repository Scope
 
-This repository contains only the README/showcase documentation for Dominator AI and does **not** include the application�s source code, UI assets, or configuration examples.
+This repository contains only the README/showcase documentation for Dominator AI and does **not** include the applications source code, UI assets, or configuration examples.
 
 ## Future Improvements
 
